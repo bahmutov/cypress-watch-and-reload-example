@@ -19,6 +19,6 @@
   "homepage": "https://github.com/bahmutov/cypress-watch-and-reload-example#readme",
   "devDependencies": {
     "cypress": "3.1.5",
-    "cypress-watch-and-reload": "1.0.1"
+    "cypress-watch-and-reload": "1.1.1"
   }
 }
