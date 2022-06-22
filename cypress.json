@@ -1,7 +1,0 @@
-{
-  "cypress-watch-and-reload": {
-    "watch": "index.html"
-  },
-  "viewportHeight": 200,
-  "viewportWidth": 200
-}
